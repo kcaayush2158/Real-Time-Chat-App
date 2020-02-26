@@ -2,6 +2,7 @@ li{
     text-decoration: none;
     list-style-type: none;
 }
+
 #messages li{
     padding: 5px 10px;
     border: 1px solid;
@@ -11,6 +12,7 @@ li{
 
     border-radius: 20px;
 }
+
 #messages li:nth-child(odd){
     background-color: green;
 }
